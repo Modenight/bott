@@ -1,0 +1,5 @@
+{
+	"ip":"modenight0.aternos.me",
+	"port": " 22616",
+	"name": "bot"
+}
